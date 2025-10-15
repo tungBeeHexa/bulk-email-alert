@@ -1,5 +1,5 @@
 {
-    "name": "variux/module-emailnotification",
+    "name": "variux-company/module-emailnotification",
     "description": "Magento Admin Bulk Emails Alert",
     "type": "magento2-module",
     "license": "GPL-3.0",
