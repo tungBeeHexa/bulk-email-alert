@@ -1,0 +1,26 @@
+{
+    "name": "variux/module-emailnotification",
+    "description": "Magento Admin Bulk Emails Alert",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        },
+        {
+            "name": "Huy Dang Quoc",
+            "email": "itdqhuy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Variux\\EmailNotification\\": ""
+        }
+    }
+}
